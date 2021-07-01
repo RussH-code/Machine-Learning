@@ -30,7 +30,9 @@ Bag of words is a way we represent text data in machine learning algorithm. It r
 
 Source: https://medium.com/voice-tech-podcast/nlp-pipeline-101-with-basic-code-example-feature-extraction-ea9894ed8daf
 
+---------------------------
 
+In this notebook we will compare and contrast three
 
 
 
