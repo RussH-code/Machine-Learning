@@ -32,7 +32,4 @@ Source: https://medium.com/voice-tech-podcast/nlp-pipeline-101-with-basic-code-e
 
 ---------------------------
 
-In this notebook we will compare and contrast three
-
-
-
+In this notebook we will compare and contrast the performance of two common ML algorithm in handling this dataset.
