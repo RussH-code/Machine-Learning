@@ -15,4 +15,27 @@ Stemming is the process of removing suffix to get the **stem** of a word.
 
 Example: playing -> play, eating -> eat
 
+## 4. Lemmatization
+Lemmatization is the process of capturing the canonical forms based on a word's lemma. This is generally more complicated and require a deeper understanding of the language to implement.
+
+Example: worse -> bad, is -> be
+
+## 5. Corpus
+A corpus is a collection of structured and curated text and we check our data against them to perform statistical analysis and draw conclusions. In this notebook, we will use the NLTK corpus.
+
+## 6. Bag of words
+Bag of words is a way we represent text data in machine learning algorithm. It represents the occurence of words within a document. 
+
+Example: 
+
+
+
+
+
+
+Source: https://medium.com/voice-tech-podcast/nlp-pipeline-101-with-basic-code-example-feature-extraction-ea9894ed8daf
+
+
+
+
 
