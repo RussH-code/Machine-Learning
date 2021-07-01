@@ -1,6 +1,6 @@
 # Machine-Learning
 
-In this notebook we are going to look at email classification. In machine learning lingo, **'Ham'** describes email that has real desirable content and not-spam, and **Spam** refers to those that are generally not desirable. To classify ham from spam, we are going to perform surpervised learning on some pre-labeled data. (Source: http://spamassassin.apache.org/publiccorpus/)
+In this notebook we are going to look at email classification. In machine learning lingo, **'Ham'** describes email that has real desirable content and not-spam, and **Spam** refers to those that are generally not desirable. To classify ham from spam, we are going to perform surpervised learning on some pre-labeled data (Source: http://spamassassin.apache.org/publiccorpus/) and compare and contrast the performance of two common ML algorithm in handling this dataset.
 
 We are going to look at several key concepts in Natural Language Processing (NLP) in the framework of machine learning to handle text data. 
 
@@ -31,5 +31,3 @@ Bag of words is a way we represent text data in machine learning algorithm. It r
 Source: https://medium.com/voice-tech-podcast/nlp-pipeline-101-with-basic-code-example-feature-extraction-ea9894ed8daf
 
 ---------------------------
-
-In this notebook we will compare and contrast the performance of two common ML algorithm in handling this dataset.
