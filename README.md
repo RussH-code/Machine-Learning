@@ -26,12 +26,7 @@ A corpus is a collection of structured and curated text and we check our data ag
 ## 6. Bag of words
 Bag of words is a way we represent text data in machine learning algorithm. It represents the occurence of words within a document. 
 
-Example: 
-
-
-
-
-
+![Bag-of-words](https://github.com/RussH-code/Machine-Learning---Spam-Classifier/blob/main/BoW.png)
 
 Source: https://medium.com/voice-tech-podcast/nlp-pipeline-101-with-basic-code-example-feature-extraction-ea9894ed8daf
 
